@@ -14,29 +14,44 @@ This project aims to predict rainfall using various weather-related features suc
 --dewpoint
 
 --humidity
+
 --cloud
+
 --rainfall
+
 --sunshine
+
 --winddirection
+
 --windspeed
 
 ## 🔍 Exploratory Data Analysis (EDA):
 --Histograms to visualize distribution of features.
+
 --Scatter plots to understand relationships with rainfall.
+
 --Line plot of rainfall over days.
+
 --Boxplots and heatmaps for outliers and correlations.
 
 ## 🤖 ML Models Used:
 --Logistic Regression
+
 --XGBoost Classifier
+
 --Support Vector Classifier (SVC)
+
 Each model was evaluated for performance in predicting rainfall based on the input features.
 
 ## ⚙️ Tools & Libraries:
 --Python
+
 --Pandas, NumPy
+
 --Matplotlib, Seaborn
+
 --Scikit-learn
+
 --XGBoost
 
 
