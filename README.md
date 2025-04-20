@@ -6,9 +6,13 @@ This project aims to predict rainfall using various weather-related features suc
 
 ## 📁 Dataset Features
 --day
+
 --pressure
+
 --temparature
+
 --dewpoint
+
 --humidity
 --cloud
 --rainfall
